@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-09-17",
+  "min_os": "Windows 10",
+  "download_url": "https://github.com/usawork2023khan-lang/auto-video-editor-releases/releases/download/v1.0.1/AutoVideoEditor_Setup.exe",
+  "sha256": "4314070C33C901C6FDD9DB59508DF7563BA95251CCBD784B8DCB31B118C470DD",
+  "size_bytes": 256549259,
+  "release_notes": "## AutoVideoEditor v1.0.1\n\n- Fixed Mute Source Video Audio export toggle\n- Optimized Filter Out Captions scanning\n- Prevented caption filtering from falling back to 1080p/4K master scanning\n- General stability improvements"
+}
